@@ -36,12 +36,12 @@ const argv = require("yargs")
 
 // construct the stark parameters
 const starkStruct = {
-  nBits: 10,
-  nBitsExt: 11,
+  nBits: 23,
+  nBitsExt: 24,
   nQueries: 8,
   verificationHashType: "GL",
   steps: [
-    {nBits: 11},
+    {nBits: 24},
     {nBits: 7},
     {nBits: 3}
   ]
