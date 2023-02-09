@@ -3,7 +3,7 @@
 PIL compiler and Circom transpiler. The stark prover is [starky](../starky).
 
 ## Run Example
-### Arithmetization:  Generate Polynomial
+### Arithmetization: Constraint Polynomial
 
 ```
 npm run fib
