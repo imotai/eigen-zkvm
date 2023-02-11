@@ -1,4 +1,4 @@
-constant %N = 2**23;
+constant %N = 2**10;
 namespace Fibonacci(%N);
     pol constant L1, LLAST;
     pol commit l1,l2;
